@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.sourcelink.json
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\User\Desktop\vscode\dotnet\EstacionamentoConsole\GERENCIADOR-ESTACIONAMENTO-DOTNET\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
